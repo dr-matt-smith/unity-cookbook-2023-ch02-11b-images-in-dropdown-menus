@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch02-11b-images-in-dropdown-menus
+# unity-cookbook-2023-ch02-11-text-and-icon-dropdown-menus
